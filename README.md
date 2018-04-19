@@ -1,0 +1,2 @@
+# imagen
+mostrando una imagen
